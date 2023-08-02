@@ -1,0 +1,6 @@
+
+# Hibernate one to one bidirectional
+
+This project showcases the implementation of a one-to-one bidirectional mapping using Hibernate, a widely-used Java ORM (Object-Relational Mapping) framework. The main objective of this mini-project is to provide a clear demonstration of how to establish a bidirectional association between two entities, allowing them to refer to each other.
+
+Please note that everything developed in this project is intended solely for illustrative purposes and is implemented in the most generic manner possible. The main focus is to present a straightforward and comprehensible example of how to establish a one-to-one bidirectional mapping using Hibernate. This project aims to provide a foundation for understanding the fundamentals of Hibernate's one-to-one bidirectional relationship and is not meant to cover advanced or production-level implementations. It serves as a starting point for learning how to create a bidirectional association between two entities, where both entities hold a reference to each other, allowing seamless navigation between the associated entities from either side. This concept can be adapted and extended to suit various use cases and entities in real-world applications.
