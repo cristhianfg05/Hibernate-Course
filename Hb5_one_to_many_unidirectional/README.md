@@ -1,0 +1,8 @@
+
+# Hibernate one to many unidirectional
+
+This project showcases the implementation of a one-to-many unidirectional mapping using Hibernate, a popular Java ORM (Object-Relational Mapping) framework. The primary objective of this mini-project is to illustrate how to establish a unidirectional association between two entities, where one entity has a one-to-many relationship with another entity.
+
+Please note that everything developed in this project is intended solely for illustrative purposes and is implemented in the most generic manner possible. The main focus is to present a clear and concise example of how to establish a one-to-many unidirectional mapping using Hibernate. This project aims to provide a foundation for understanding the fundamentals of Hibernate's one-to-many unidirectional relationship and is not meant to cover advanced or production-level implementations. It serves as a starting point for learning how to create a unidirectional association between two entities, where one entity has a one-to-many relationship with another entity.
+
+The project demonstrates how to establish the unidirectional link between ParentEntity and ChildEntity, enabling the ParentEntity to have multiple ChildEntity instances associated with it. This concept allows seamless navigation from the ParentEntity to its associated ChildEntity instances. You can adapt and extend this concept to suit various use cases and entities in real-world applications.
